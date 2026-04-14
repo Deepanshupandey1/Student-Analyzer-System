@@ -60,7 +60,11 @@ java StudentAnalyzer
 ## 📸 Output Preview
 
 <img width="727" height="628" alt="image" src="https://github.com/user-attachments/assets/8f99e78b-34da-4587-88c2-7d2fd4e8c792" />
-
+<img width="449" height="682" alt="image" src="https://github.com/user-attachments/assets/c1a60705-34aa-4a89-901c-5e33d663ae55" />
+<img width="652" height="564" alt="image" src="https://github.com/user-attachments/assets/43dfb8db-8b41-470c-afcd-a94914d6c655" />
+<img width="458" height="915" alt="image" src="https://github.com/user-attachments/assets/0aa9c1ac-d8ab-45f1-8d2e-d075c4b3caa1" />
+<img width="460" height="914" alt="image" src="https://github.com/user-attachments/assets/0b8036f0-c488-478b-84d7-0bbf4f8e6384" />
+<img width="482" height="536" alt="image" src="https://github.com/user-attachments/assets/3b81c532-c118-4353-9cea-e02b19133ff2" />
 
 ---
 
