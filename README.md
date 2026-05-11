@@ -1,114 +1,155 @@
-# 🎓 Student Analyzer System (Java)
+# 🎓 Student Analyzer System
 
-<p align="center">
-  <b>A feature-rich Java console application to manage student records, analyze performance, and generate insights.</b>
-</p>
+A console-based Java project developed using ☕ Object-Oriented Programming, 📂 File Handling, 📚 Collections Framework, and 🧠 Data Structures concepts.
 
----
-
-## 🚀 Overview
-
-The **Student Analyzer System** is a Java-based console application designed to manage and analyze student academic performance efficiently.
-
-It allows users to input student data, calculate grades and rankings, and extract meaningful insights such as toppers, class averages, and subject-wise performance.
+This system helps manage 👨‍🎓 student records, calculate 📊 grades, generate 🏆 rankings, search 🔍 student details, analyze 📈 class performance, and securely authenticate 🔐 users using a CSV-based login system.
 
 ---
 
-## ✨ Key Features
+# 🚀 Overview
 
-* 🧑‍🎓 **Student Management** – Add and manage multiple students
-* 📝 **Marks Entry System** – Input subject-wise marks
-* 📊 **Performance Analysis** – Automatic percentage & grade calculation
-* 🏆 **Topper Detection** – Identify overall and subject-wise toppers
-* 🔍 **Search Functionality** – Find students instantly
-* 📉 **Fail Detection** – Identify students below passing criteria
-* 📈 **Class Summary** – Average performance insights
-* 🎯 **Ranking System** – Auto-generated rank list
+The Student Analyzer System is designed to simplify 👨‍🏫 student data management and academic analysis.
 
----
+It provides a user-friendly 💻 terminal interface where authorized users can:
 
-## 🛠️ Tech Stack
-
-| Technology | Usage            |
-| ---------- | ---------------- |
-| Java       | Core programming |
-| Arrays     | Data storage     |
-| Sorting    | Ranking system   |
-| CLI        | User Interface   |
+- 🔐 Log in securely
+- ➕ Add student details
+- 📊 Calculate grades and percentages
+- 🏆 Generate rankings
+- 🔍 Search records
+- 🥇 View toppers
+- 💾 Save reports into text files
 
 ---
 
-## 🧠 Concepts Used
+# ✨ Key Features
 
-* Object-Oriented Programming (OOP)
-* Arrays & Data Structures
-* Sorting Algorithms
-* Input Validation
-* Control Flow & Logic Building
+- 🔐 CSV-based Login Authentication System
+- 👨‍🎓 Add Student Records Dynamically
+- 📊 Automatic Percentage & Grade Calculation
+- 🏆 Student Ranking System
+- 🔍 Search Students by Name
+- 📈 Class Summary & Statistics
+- ❌ Failed Student Detection
+- 🥇 Subject Topper Analysis
+- 💾 Save Reports into Text Files
+- 🎨 Colored Console UI using ANSI Codes
 
 ---
 
-## ▶️ How to Run
+# 🛠️ Tech Stack
+
+| 💻 Technology | 🚀 Usage |
+|--------------|----------|
+| ☕ Java | Core Programming |
+| 🧠 OOP | Project Structure |
+| 📚 ArrayList | Dynamic Student Storage |
+| 📦 Arrays | Marks Management |
+| 📄 CSV File | Login Authentication |
+| 📂 File Handling | Report Storage |
+
+---
+
+# 🧠 Concepts Used
+
+- 🏗️ Object-Oriented Programming (OOP)
+- 📦 Arrays & 📚 ArrayList
+- 🔍 Searching & 🏆 Sorting
+- 📂 File Handling
+- ⚠️ Exception Handling
+- 🔐 CSV Authentication System
+
+---
+
+# ▶️ How to Run
+
+## 🛠️ Step 1 — Compile
 
 ```bash
-javac StudentAnalyzer.java
-java StudentAnalyzer
+javac AdvancedStudentAnalyzer.java
+```
+
+## ▶️ Step 2 — Run
+
+```bash
+java AdvancedStudentAnalyzer
 ```
 
 ---
 
-## 📸 Output Preview
+# 📷 Output Preview
 
-<img width="727" height="628" alt="image" src="https://github.com/user-attachments/assets/8f99e78b-34da-4587-88c2-7d2fd4e8c792" />
-<img width="449" height="682" alt="image" src="https://github.com/user-attachments/assets/c1a60705-34aa-4a89-901c-5e33d663ae55" />
-<img width="652" height="564" alt="image" src="https://github.com/user-attachments/assets/43dfb8db-8b41-470c-afcd-a94914d6c655" />
-<img width="458" height="915" alt="image" src="https://github.com/user-attachments/assets/0aa9c1ac-d8ab-45f1-8d2e-d075c4b3caa1" />
-<img width="460" height="914" alt="image" src="https://github.com/user-attachments/assets/0b8036f0-c488-478b-84d7-0bbf4f8e6384" />
-<img width="482" height="536" alt="image" src="https://github.com/user-attachments/assets/3b81c532-c118-4353-9cea-e02b19133ff2" />
+![Output](output.png)
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```
-Student-Analyzer-System/
-│── StudentAnalyzer.java
-│── README.md
-│── LICENSE
-│── .gitignore
+```text
+Student-Analyzer-System
+│
+├── AdvancedStudentAnalyzer.java
+├── users.csv
+├── StudentReport.txt
+├── output.png
+└── README.md
 ```
 
 ---
 
-## 🔮 Future Enhancements
+# 🔐 users.csv Example
 
-* GUI Version (JavaFX / Swing)
-* Database Integration (JDBC + MySQL)
-* Web Application (Full Stack)
-* Export Reports (PDF/Excel)
-* User Authentication System
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork this repository and improve the project.
+```csv
+Username,Password
+admin,1234
+deepanshu,9999
+teacher,abcd
+```
 
 ---
 
-## 📜 License
+# 🚧 Future Enhancements
 
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Deepanshu**
-📌 Aspiring Full Stack Developer | Java | DSA | Web Dev
+- 🖥️ GUI Version using Java Swing
+- 🗄️ Database Connectivity
+- 🔒 Password Encryption
+- 👨‍💼 Admin Dashboard
+- 📄 PDF Report Export
+- ⚡ HashMap-based Authentication
 
 ---
 
-## ⭐ Support
+# 🎯 Conclusion
 
-If you like this project, give it a ⭐ on GitHub — it helps a lot!
+This project demonstrates practical implementation of ☕ Java programming concepts including 🧠 OOP, 📂 File Handling, 📚 Collections Framework, 🔍 Searching, 🏆 Sorting, and 🔐 Authentication Systems.
+
+✅ Suitable for:
+
+- 🎓 Semester Projects
+- ☕ Java Mini Projects
+- 🧪 Academic Demonstrations
+- 💼 Portfolio Projects
+
+---
+
+# 📜 License
+
+📖 This project is developed for educational and learning purposes.
+
+---
+
+# 👨‍💻 Author
+
+Developed by **Deepanshu Pandey** 🚀
+
+☕ Java Developer | 🧠 DSA Learner | 🌐 Full Stack Enthusiast
+
+---
+
+# ⭐ Support
+
+If you like this project:
+
+⭐ Star the repository  
+🍴 Fork the project  
+📢 Share with others
