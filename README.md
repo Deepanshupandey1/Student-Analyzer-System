@@ -77,11 +77,6 @@ java AdvancedStudentAnalyzer
 
 ---
 
-# 📷 Output Preview
-
-![Output](output.png)
-
----
 
 # 📂 Project Structure
 
