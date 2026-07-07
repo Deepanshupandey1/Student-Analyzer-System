@@ -137,7 +137,7 @@ This project demonstrates practical implementation of ☕ Java programming conce
 
 Developed by **Deepanshu Pandey** 🚀
 
-☕ Java Developer | 🧠 DSA Learner | 🌐 Full Stack Enthusiast
+🧠 DSA q | 🌐 Full Stack Enthusiast
 
 ---
 
