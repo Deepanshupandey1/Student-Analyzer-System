@@ -9,7 +9,6 @@ This system helps manage 👨‍🎓 student records, calculate 📊 grades, gen
 # 🚀 Overview
 
 The Student Analyzer System is designed to simplify 👨‍🏫 student data management and academic analysis.
-
 It provides a user-friendly 💻 terminal interface where authorized users can:
 
 - 🔐 Log in securely
