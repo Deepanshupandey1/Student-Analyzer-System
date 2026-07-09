@@ -19,7 +19,6 @@ public class StudentAnalyzerss
     static String[] subjects = {}, names = {};
     static double[][] marks = {};
     static boolean dataEntered = false;
-
     static double[] totals = {}, averages = {}, percentages = {};
     static String[] grades = {};
     static int[] ranks = {};
