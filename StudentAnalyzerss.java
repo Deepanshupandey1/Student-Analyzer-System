@@ -1,6 +1,5 @@
 import java.text.*;
 import java.util.*;
-
 public class StudentAnalyzerss
 {
     // 🎨 COLORS
